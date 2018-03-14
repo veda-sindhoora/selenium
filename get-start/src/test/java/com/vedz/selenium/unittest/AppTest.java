@@ -1,4 +1,4 @@
-package com.vedz.selenium;
+package com.vedz.selenium.unittest;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
